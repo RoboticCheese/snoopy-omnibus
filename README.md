@@ -1,2 +1,1 @@
-# snoopy-omnibus
-Socrata bugbounty POC
+## Socrata bugbounty POC
